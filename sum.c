@@ -12,6 +12,6 @@ int main()
    c = a + b;
  
    printf("Sum of entered numbers = %d\n",c);
- 
+    printf("GILOMA");
    return 0;
 }
